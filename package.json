@@ -19,6 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo-server-express": "^2.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
