@@ -20,7 +20,7 @@ Book Search Engine is an Apollo and React based application that allows users to
 ## Link to Github Repository
 * [Book Search Engine](https://github.com/mplumer/book-search-engine)
 
-![Screenshot](client/public/assets/images/Screenshot1.png)
+![Screenshot](client/public/assets/images/Screenshot2.png)
 ![Screenshot](client/public/assets/images/Screenshot1.png)
  
 ### Installation
